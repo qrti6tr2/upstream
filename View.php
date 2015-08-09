@@ -10,7 +10,7 @@ class View
 		# todo: implement this.https://github.com/motammem/upstream.git
 	}
 
-	public function setTemplateEngines(Engine $engine)
+	public function setTemplateEngines2(Engine $engine)
 	{
 		$this->engine = $engine;
 	}
