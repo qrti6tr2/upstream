@@ -9,4 +9,9 @@ class View
 	{
 		# todo: implement this.
 	}
+
+    public function setParameters($array)
+    {
+        # todo: implement this.
+    }
 }
