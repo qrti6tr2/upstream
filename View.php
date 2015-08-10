@@ -14,4 +14,9 @@ class View
 	{
 		$this->engine = $engine;
 	}
+
+    public function setParameters($array)
+    {
+        # todo: implement this.
+    }
 }
