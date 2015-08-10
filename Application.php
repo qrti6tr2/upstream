@@ -1,10 +1,7 @@
 <?php
 
 /**
- * Created by PhpStorm.
- * User: root
- * Date: 8/9/15
- * Time: 7:09 PM
+ * Application class where everything begins.
  */
 class Application
 {
